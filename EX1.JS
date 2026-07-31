@@ -4,3 +4,4 @@ const c=20;
 c=b;
 console.log("a=",a)
 console.log("b=",b)
+console.log("b=",b)
